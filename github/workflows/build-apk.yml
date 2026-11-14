@@ -25,7 +25,7 @@ jobs:
           gradle-version: 8.9
 
       - name: Unpack project
-        run: unzip -o LastShift_Prototype_v01.zip
+        run: unzip -o LastShift.zip
 
       - name: Build APK
         run: gradle assembleDebug
