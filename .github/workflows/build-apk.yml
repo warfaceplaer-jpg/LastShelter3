@@ -35,5 +35,3 @@ jobs:
         with:
           name: LastShift-APK
           path: app/build/outputs/apk/debug/app-debug.apk
-
-
